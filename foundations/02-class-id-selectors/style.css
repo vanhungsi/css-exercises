@@ -1,0 +1,21 @@
+body{
+    font-family:Verdana, "DejaVu Sans Mono",sans-serif
+}
+p{
+    background-color: pink;
+    
+}
+.line3{
+    font-size: 20px;
+    
+}
+#two{
+    font-size: 50px;
+    color:  blue;
+
+}
+#four{
+    background-color: lightgreen;
+    font-weight: 700;
+    
+}
